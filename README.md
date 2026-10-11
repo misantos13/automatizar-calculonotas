@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-Projeto desenvolvido para atividade de **Desenvolvimento de Sistemas I - Agenda 08**. Tendo a proposta de fazer a **Automação de Notas Escolares**  recolhendo informações como **Nome** e **Notas Bimestrais** do usuário.
+Projeto desenvolvido para atividade de **Desenvolvimento de Sistemas I - Agenda 10**. Tendo a proposta de fazer a **Automação de Notas Escolares**  recolhendo informações como **Nome** e **Notas Bimestrais** do usuário.
 
 ---
 
